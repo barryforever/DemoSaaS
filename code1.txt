@@ -7,3 +7,6 @@
 
 #include "LIB_NODERF868.h"
 #include "LIB_HC05.h"
+
+NODE_RF868                       node;
+Sim80x_t                         Sim80x;
